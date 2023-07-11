@@ -3,9 +3,7 @@
 
 ## 🌱 I’m currently learning: 
 - React
-- Redux Toolkit
-- Tailwind 
-- Material UI
+- Typescript
 
 ## 📫 How to reach me: keremakkusx@gmail.com
 
