@@ -1,10 +1,6 @@
 <h1 align="center">:computer: Hi I'm Kerem Akkus :computer:</h1>
 <h3 align="center">Frontend developer from Turkey</h3>
 
-## 🌱 I’m currently learning: 
-- React
-- Typescript
-
 ## 📫 How to reach me: keremakkusx@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
