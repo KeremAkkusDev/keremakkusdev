@@ -14,8 +14,3 @@
 <a href="https://twitter.com/KeremAkkusDev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="https://twitter.com/KeremAkkusDev" /></a>
 <a href="https://instagram.com/KeremmAkkus" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://instagram.com/KeremmAkkus" /></a>
 </p>
-
-<h3 align="left">My stats:</h3>
-
-![Kerem's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremakkusdev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremakkusdev&layout=compact&theme=transparent)
